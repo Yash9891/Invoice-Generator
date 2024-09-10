@@ -1,0 +1,162 @@
+body{
+    background-color: #131314;
+    color: white;
+    font-family: "Noto Sans", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.items{
+    margin: 20px 0px ;
+    margin-bottom: 15px;
+    color: #838083;
+    font-size: 1.3rem;
+}
+.inoiceheading{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 3.6rem;
+    font-weight: 500;
+    background: linear-gradient(270deg, #f7612a 40%, #4061da 60%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.itembutton{
+    margin-top: 20px;
+}
+input{
+    text-decoration: none;
+    border: none;
+    all: unset;
+
+    background: rgb(58, 58, 60);
+    color: rgb(245, 244, 244);
+    margin: 7px 0px;
+    height: 25px;
+    padding: 4px 10px;
+    border-radius: 0.4rem;
+    width: 230px;
+  
+}
+.section1{
+    width: 50%;
+}
+.section2{
+    margin-left: 30px;
+    width: 50%;
+}
+.section3{
+    width: 50%;
+}
+.section4{
+    margin-left: 30px;
+    width: 50%;
+}
+.formcontainer{
+   border-radius: 1rem;
+    margin: 40px 25px;
+    padding: 50px;
+   width: 600px;
+  background-color: #1b1b20;
+
+}
+.maha{
+    
+    margin-bottom: 35px;
+    background: linear-gradient(270deg, #b7b7bb 10%, #b3b1b1 100%);
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 2.1rem;
+    font-weight: 500;
+}
+.top1{
+    display: flex;
+    justify-content: flex-start;
+   
+    margin-bottom: 20px;
+   
+}
+.top2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+   
+}
+.files{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+   
+}
+.logo{
+    width: 50%;
+}
+.logo2{
+    width: 50%;
+}
+.sys,input[type="file"]{
+    background-color: #1b1b20;
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 10px 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+   
+}
+
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  /* border-radius: 4px; */
+  transition: 0.5s;
+  padding: 10px 14px;
+  border-radius: 50px;
+  background: linear-gradient(264deg, #DF8908 -5.09%, #B415FF 106.28%);
+  cursor: pointer;
+
+  width: 200px;
+  font-size: 1.2rem;
+  border: 2px solid rgb(24, 22, 22);
+
+
+}
+div label{
+  
+ 
+}
+label{
+    display: block; width: 170px;
+}
+h3{
+    color: rgb(240, 75, 171);
+    background: linear-gradient(270deg, #f683e6 10%, #be51f0 100%);
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 15px 0;
+}
