@@ -12,7 +12,7 @@ The Invoice Generator is a web-based application that enables users to effortles
 
 - Scalable architecture for handling large user traffic
 
-# Technologies Used:
+## Technologies Used:
 
 Frontend: HTML, CSS, JavaScript, React.js
 
